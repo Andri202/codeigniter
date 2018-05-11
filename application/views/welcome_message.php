@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Andri Gunawan
 <!-- <?php
+=======
+<?php
+>>>>>>> d6a202c001d8368af0a9354c84efb69bba9333e6
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
@@ -87,4 +91,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 
 </body>
+<<<<<<< HEAD
 </html> -->
+=======
+</html>
+>>>>>>> d6a202c001d8368af0a9354c84efb69bba9333e6
